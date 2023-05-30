@@ -17,7 +17,7 @@ function addItem() {
     deleteBtn.addEventListener('click', deleteElement);
     function deleteElement(e){
         e.currentTarget.parentNode.remove()
-    }
+    }  
 
 
     
