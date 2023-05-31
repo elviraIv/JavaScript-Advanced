@@ -1,3 +1,4 @@
 function solve() {
-   //TODO...
+   let textAreaElement = document.querySelector('textarea');
+   
 }
