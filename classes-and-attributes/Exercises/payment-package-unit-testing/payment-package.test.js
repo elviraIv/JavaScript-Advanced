@@ -1,5 +1,5 @@
 const PaymentPackage = require("./payment-package");
-const { assert, expect } = require("chai");
+const { expect } = require("chai");
 
 describe("overall behaviour", () => {
   it("should return valid information when given correct input", () => {
