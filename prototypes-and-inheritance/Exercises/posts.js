@@ -43,8 +43,7 @@ function solution() {
     }
 
     toString() {
-      `${super.toString}\n
-            Views: ${this.views}`;
+      `${super.toString}\nViews: ${this.views}`;
     }
   }
 
